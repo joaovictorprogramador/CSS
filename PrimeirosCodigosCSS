@@ -1,3 +1,5 @@
+/* Essa codificação faz com que os parágrafos (p) fiquem com a fonte na cor Azul */
+
 p{
 color: blue;
 }
