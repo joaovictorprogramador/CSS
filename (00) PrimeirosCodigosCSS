@@ -1,0 +1,5 @@
+
+p{
+  color: cor_em_ingles; /* MUDA A COR DOS PARÁGRAFOS <p> */
+  text-weight: bold /* PARÁGRAFOS <p> EM NEGRITO */
+}
