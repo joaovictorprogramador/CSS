@@ -1,5 +1,5 @@
 /* PROPRIEDADES CSS (seletor <p> como exemplo)*/
 
 p{
-color: cor_da_fonte;
+  color: cor_da_fonte;
 }
