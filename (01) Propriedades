@@ -1,5 +1,7 @@
-/* PROPRIEDADES CSS (seletor <p> como exemplo)*/
+/* PROPRIEDADES CSS (seletor <p> como exemplo) */
 
 p{
-  color: cor_da_fonte;
+  color: black; /* DIGITE O NOME DA COR EM INGLÊS */
+  font-family: sans-serif, "Trebuchet MS", Arial; /* DEFINE UMA LISTA DE FONTES PARA SER UTILIZADA NO ELEMENTO (E SEUS HERDEIROS). */
+  font-size: 15px; /* PODE-SE USAR UNIDADES COMO px (pixels), em (unidade relativa), %, pt (pontos), etc. */
 }
