@@ -1,7 +1,9 @@
 /* PROPRIEDADES CSS (seletor <p> como exemplo) */
 
 p{
-  color: black; /* DIGITE O NOME DA COR EM INGLÊS */
+  color: black; /* COR DA FONTE EM INGLÊS */
   font-family: sans-serif, "Trebuchet MS", Arial; /* DEFINE UMA LISTA DE FONTES PARA SER UTILIZADA NO ELEMENTO (E SEUS HERDEIROS). */
   font-size: 15px; /* PODE-SE USAR UNIDADES COMO px (pixels), em (unidade relativa), %, pt (pontos), etc. */
+  font-weight: bold; /* PESO DA FONTE: NORMAL ou NEGRITO (bold) */
+  font-style: italic; /* ESTILO DA FONTE: NORMAL ou ITÁLICO (italic) */
 }
